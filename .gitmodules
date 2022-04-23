@@ -1,0 +1,6 @@
+[submodule "Packages/voxell.speech"]
+	path = Packages/voxell.speech
+	url = https://github.com/voxell-tech/UnityTTS
+[submodule "Packages/voxell.util"]
+	path = Packages/voxell.util
+	url = https://github.com/voxell-tech/UnityUtil
