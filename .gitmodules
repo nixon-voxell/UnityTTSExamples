@@ -1,9 +1,9 @@
-[submodule "Packages/voxell.speech"]
-	path = Packages/voxell.speech
-	url = https://github.com/voxell-tech/UnityTTS
-[submodule "Packages/voxell.util"]
-	path = Packages/voxell.util
-	url = https://github.com/voxell-tech/UnityUtil
+[submodule "Packages/UnityTTS"]
+	path = Packages/UnityTTS
+	url = https://github.com/voxell-tech/UnityTTS.git
+[submodule "Packages/UnityUtil"]
+	path = Packages/UnityUtil
+	url = https://github.com/voxell-tech/UnityUtil.git
 [submodule "Packages/barracuda-release"]
 	path = Packages/barracuda-release
 	url = https://github.com/Unity-Technologies/barracuda-release.git
